@@ -1,0 +1,12 @@
+{
+  "price_column_used": "Price",
+  "alpha": 0.01,
+  "ewma_lambda": 0.94,
+  "break_dates": [
+    "2020-02-21",
+    "2025-04-04"
+  ],
+  "pandemic_window_start": "2016-02-01",
+  "pandemic_window_end": "2020-02-20",
+  "best_model_by_quantile_loss": "Markov Switching + EVT"
+}

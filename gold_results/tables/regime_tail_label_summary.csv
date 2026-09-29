@@ -1,0 +1,5 @@
+label,tail,shape_xi,shape_ci_low,shape_ci_high,n_exceedances
+Pandemic Shock,left,-0.5778831505266109,-1.124901790812131,-0.3680396840701129,116
+Pandemic Shock,right,-0.0035883020455198845,-0.4842139140046571,0.1917483165086395,116
+Post-Pandemic,left,,,,11
+Post-Pandemic,right,,,,11
